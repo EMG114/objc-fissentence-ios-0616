@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:FISSentence.h">
+   </FileRef>
+   <FileRef
+      location = "group:FISSentence.m">
+   </FileRef>
+   <FileRef
       location = "group:objc-fissentence.xcodeproj">
    </FileRef>
    <FileRef
